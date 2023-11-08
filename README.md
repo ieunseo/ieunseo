@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Im eunseo Lee
 
-<!--
-**ieunseo/ieunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<<<<<<< HEAD
 
-- update!
--->
 
+=======
+>>>>>>> 6891541fb8ad52c82702f59be77909ec9902be0c
