@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm EUNSEO LEE
 웹 개발자 지망생
 
-#### ✔ 사용가능한 스택 🔨
+#### ✔ 사용가능한 언어와 도구🔨
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
