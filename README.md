@@ -13,20 +13,3 @@
 
  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@y949512/posts)
 
-오늘 배운 마크다운 언어
-
-[x] 가능!
-# 1단계 제목
-# 2단계 제목
-# 3단계 제목
-_기울어_
-*굵게*
-1. 순서있이
-2. 순서있이
-- 순서없이
-- 순서없이
-```
-코드작성
-print(helloworld)
-```
->인용문
