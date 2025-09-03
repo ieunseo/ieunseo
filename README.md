@@ -10,9 +10,9 @@
   - 하우아유 프로젝트 우수상 수상(2025)
 
 ### 🚀 Projects
-[![2getNyang](https://img.shields.io/badge/2getNyang-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2getNyang/server)  
+[![2getNyang](https://img.shields.io/badge/2getNyang-FFE400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2getNyang/server)  
 Spring Boot + MySQL + Redis + Elasticsearch 기반의 반려동물 입양/안전 플랫폼  
-[![HowAreYou](https://img.shields.io/badge/HowAreYou-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImFineThxAndYou/server)
+[![HowAreYou](https://img.shields.io/badge/HowAreYou-7F50FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImFineThxAndYou/server)
 
   redis + websocket, kafka + postgreSQL + mongoDB 기반 채팅을통한 한국어-영어 언어학습 플랫폼 
 
