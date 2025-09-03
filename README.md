@@ -11,7 +11,7 @@ Java & Spring Boot 기반으로 **안정적이고 확장 가능한 백엔드 서
 
 ### 🚀 Projects
 [![2getNyang](https://img.shields.io/badge/2getNyang-FFE400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2getNyang/server)   Spring Boot + MySQL + Redis + Elasticsearch 를 사용하여 좀 더 편리한 반려동물 입양/안전 플랫폼  
-[![HowAreYou](https://img.shields.io/badge/HowAreYou-7F50FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImFineThxAndYou/server) redis + websocket, kafka + postgreSQL + mongoDB 를 사용하여 좀 더 안정적인 채팅을 통해 한국어-영어 언어를 교환하며 학습하는 플랫폼 
+[![HowAreYou](https://img.shields.io/badge/HowAreYou-7F50FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImFineThxAndYou/server) redis + websocket, kafka + postgreSQL + mongoDB 를 사용하여 안정적인 채팅서비스를 이용해 공부하는 한국어-영어 언어 교환 학습 플랫폼 
 
 
 ### ✔ stack
