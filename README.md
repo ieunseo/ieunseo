@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm EUNSEO LEE
 팀과 함께 성장하며 문제 해결을 즐기고, 새로운 기술을 배우는 데 적극적이며,
-Java & Spring Boot 기반으로 **안정적이고 확장 가능한 백엔드 서비스**를 만드는 개발자 이은서 입니다.
+Java & Spring Boot 기반으로 **안정적이고 확장 가능성이있는 서비스를**를 만드는 개발자 이은서 입니다.
 ### 🏅 Experience 
 - 오픈소스 컨트리뷰션 아카데미 참여 (2023)
 - 삼육대학교 벤처스타트업아카데미 참여 (2024)
@@ -45,8 +45,3 @@ job crew
 #### about me
 
  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@y949512/posts)
-
-
-### 📊 GitHub Stats
-![EUNSEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunseo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieunseo&layout=compact&theme=radical)
