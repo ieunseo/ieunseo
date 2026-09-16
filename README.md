@@ -7,7 +7,7 @@
 - 멋쟁이사자처럼 백엔드 플러스 5기 (2025)
   - 함께하개냥 프로젝트 최우수상 수상 (2025)
   - 하우아유 프로젝트 우수상 수상(2025)
-- 새싹 풀스택 프로덕트빌더 과정 참여 (2026) 
+- SeSAC 풀스택 프로덕트빌더 과정 참여 (2026) 
 
 ### 🚀 Projects
 [![2getNyang](https://img.shields.io/badge/2getNyang-FFE400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2getNyang/server)   Spring Boot + MySQL + Redis + Elasticsearch 를 사용하여 좀 더 편리한 반려동물 입양/안전 플랫폼  
