@@ -12,7 +12,7 @@
 ### 🚀 Projects
 [![2getNyang](https://img.shields.io/badge/2getNyang-FFE400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2getNyang/server)   Spring Boot + MySQL + Redis + Elasticsearch 를 사용하여 좀 더 편리한 반려동물 입양/안전 플랫폼  
 [![HowAreYou](https://img.shields.io/badge/HowAreYou-7F50FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImFineThxAndYou/server) redis + websocket, kafka + postgreSQL + mongoDB 를 사용하여 안정적인 채팅서비스를 통해 공부하는 한국어-영어 언어 교환 학습 플랫폼  
-job crew
+
 
 
 ### ✔ stack
@@ -31,9 +31,9 @@ job crew
 #### 📊 Test & Monitoring
 <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 
-#### 🎨 Frontend (협업 경험)
+#### 🎨 Frontend
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
+next.js
 
 #### 🔧 Tools
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/> <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
