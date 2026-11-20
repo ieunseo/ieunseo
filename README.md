@@ -2,7 +2,7 @@
 
 # 안녕하세요, 백엔드 개발자 이은서입니다 👋
 
-**기능의 목적을 이해하고, 더 나은 사용자 경험으로 연결하는 개발자**
+**사소한것도 놓치지않고 발견하여 기능을 개선하는 개발자**
 
 <a href="https://github.com/ieunseo"><img src="https://img.shields.io/badge/GitHub-ieunseo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
